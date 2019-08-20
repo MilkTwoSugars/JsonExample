@@ -1,0 +1,92 @@
+[
+    {
+      "id": "5bae50837aaac9fe34a66062",
+      "index": 0,
+      "name": "York Minster",
+      "description": "The Cathedral and Metropolitical Church of Saint Peter in York, commonly known as York Minster, is the cathedral of York, England, and is one of the largest of its kind in Northern Europe.",
+      "videoTitle": "minster.mp4",
+      "latitude": 53.962412,
+      "longitude": -1.081907
+    },
+    {
+      "id": "5bae5083c55cbcbda4a8dc89",
+      "index": 1,
+      "name": "Statue of Constantine the Great",
+      "description": "The Statue of Constantine the Great is a bronze statue depicting the Roman Emperor Constantine I seated on a throne, commissioned by York Civic Trust and designed by the sculptor Philip Jackson.",
+      "videoTitle": "constantine.mp4",
+      "latitude": 53.962030,
+      "longitude": -1.081699
+    },
+    {
+      "id": "5bae5083b299abf314bd2f0d",
+      "index": 2,
+      "name": "Roman Column",
+      "description": "Roman column, originally part of the basilica of a roman fortress, was found on its side in the foundations of the York Minster during an excavation in 1969.",
+      "videoTitle": "column.mp4",
+      "latitude": 53.961771,
+      "longitude": -1.081835
+    },
+    {
+      "id": "5bae5083f5a4049c6f7955e9",
+      "index": 3,
+      "name": "Rose Window",
+      "description": "A rose window whose glass dates from about 1500 and commemorates the union of the royal houses of York and Lancaster.",
+      "videoTitle": "rose.mp4",
+      "latitude": 53.961938,
+      "longitude": -1.082047
+    },
+    {
+      "id": "5bae50838d4da0bae148b099",
+      "index": 4,
+      "name": "Graves of the Monks of St Mary's Abbey",
+      "description": "No description available",
+      "videoTitle": "monks.mp4",
+      "latitude": 53.961020,
+      "longitude": -1.086842
+    },
+    {
+      "id": "5bae5083c21623a060f82475",
+      "index": 5,
+      "name": "The Multangular Tower",
+      "description": "The Multangular Tower is the western corner tower of the Roman fortress, and consists of both Roman and medieval architecture. The tower has 10 sides, from which it derives its modern name 'multangular', and is 19 feet (5.8 m) high.",
+      "videoTitle": "tower.mp4",
+      "latitude": 53.961446,
+      "longitude": -1.087010
+    },
+    {
+      "id": "5bae5083708970aa7f066d0f",
+      "index": 6,
+      "name": "The Golden Fleece",
+      "description": "No description available",
+      "videoTitle": "fleece.mp4",
+      "latitude": 53.958745,
+      "longitude": -1.079622
+    },
+    {
+      "id": "5bae508358250ad1ef222c9b",
+      "index": 7,
+      "name": "Statue of William Etty",
+      "description": "A statue of Etty by G. W. Milburn",
+      "videoTitle": "etty.mp4",
+      "latitude": 53.962818,
+      "longitude": -1.085864
+    },
+    {
+      "id": "5bae50837887ba3e562afc6b",
+      "index": 8,
+      "name": "King's Manor",
+      "description": "The King's Manor was originally built to house the abbots of St Mary's Abbey, and is now part of the University of York.",
+      "videoTitle": "king.mp4",
+      "latitude": 53.962449,
+      "longitude": -1.086175
+    },
+    {
+      "id": "5bae50837887ba3e562afc6b",
+      "index": 9,
+      "name": "Treasurer's House",
+      "description": "No description available.",
+      "videoTitle": "treasure.mp4",
+      "latitude": 53.962806,
+      "longitude": -1.080896
+    }
+  ]
